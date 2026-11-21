@@ -111,6 +111,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [Wall Street Research Entities (UnHideA)](https://github.com/lijiumixin/wall-street-research-entities) – Open MIT 11-language entity & alias dictionary covering 405 global public companies and 73 investment banks, with live multilingual research hubs at [UnHideA](https://unhidea.com/en/).
 
 ## Modeling, Analytics & Tools
 
