@@ -119,6 +119,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [R Finance Packages](https://cran.r-project.org/web/views/Finance.html) – Statistical and financial modeling tools.
 - [MATLAB Finance Toolbox](https://www.mathworks.com/products/finance.html) – Quantitative finance and risk modeling tools.
 - [Power BI](https://powerbi.microsoft.com/) – Financial dashboards and reporting.
+- [Xun Qiao](https://xunqiao.qq10.fun/about) – Free research workspace for crypto and U.S. stocks, connecting headlines to price context across 1,200+ sources. Core research is free; optional Gold adds GPT conversations and a developer API, and Premium adds a paid read-only news API. The site does not execute trades.
 
 ## Regulation & Compliance
 
