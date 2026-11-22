@@ -60,7 +60,6 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Corporate Finance
 
 - [Corporate Finance Institute](https://corporatefinanceinstitute.com/) – Training and resources for corporate finance professionals.
-- 
 - [Valuation Models](https://www.wallstreetprep.com/knowledge/valuation-methods/) – Guides to DCF, comparables, and precedent transactions.
 - [Mergers & Acquisitions Guide](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) – Overview of M&A concepts and structures.
 - [Capital Structure Theory](https://www.investopedia.com/terms/c/capitalstructure.asp) – Debt and equity financing fundamentals.
