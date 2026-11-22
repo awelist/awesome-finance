@@ -55,10 +55,12 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
 - [Personal Capital](https://www.empower.com/) – Net worth tracking and retirement planning tools.
+- [RelocateMath](https://relocatemath.com) – Compare take-home pay, taxes, rent, home prices and moving costs between any two U.S. states with 2026 rules and official data.
 
 ## Corporate Finance
 
 - [Corporate Finance Institute](https://corporatefinanceinstitute.com/) – Training and resources for corporate finance professionals.
+- 
 - [Valuation Models](https://www.wallstreetprep.com/knowledge/valuation-methods/) – Guides to DCF, comparables, and precedent transactions.
 - [Mergers & Acquisitions Guide](https://www.investopedia.com/terms/m/mergersandacquisitions.asp) – Overview of M&A concepts and structures.
 - [Capital Structure Theory](https://www.investopedia.com/terms/c/capitalstructure.asp) – Debt and equity financing fundamentals.
