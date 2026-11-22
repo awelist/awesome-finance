@@ -51,6 +51,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Personal Finance
 
 - [Mint](https://mint.intuit.com/) – Personal budgeting and expense tracking platform.
+- [Moedux](https://www.moedux.com/) – Brazilian personal-finance app that turns transactions and bills into a spending diagnosis, with a free no-signup preview of when expenses outrun income.
 - [YNAB](https://www.youneedabudget.com/) – Zero-based budgeting software.
 - [NerdWallet](https://www.nerdwallet.com/) – Consumer finance advice and comparisons.
 - [Bogleheads](https://www.bogleheads.org/) – Community and resources for long-term investing.
