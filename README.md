@@ -111,6 +111,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
+- [FlowFeed](https://flowfeed.cc) – Real-time macro, forex and crypto news and economic calendar for AI agents, via a paid remote MCP server.
 
 ## Modeling, Analytics & Tools
 
