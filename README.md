@@ -131,6 +131,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Learning Resources
 
 ### Tutorials
+- [PassiveReturn: Private Mortgage Investing Guide](https://passivereturn.com/ultimate-guide-to-private-mortgage-investing-what-you-need-to-know/) – Explains mortgage notes, pooled funds, and considerations such as lien priority, liquidity, and risk of loss.
 - [Khan Academy Finance](https://www.khanacademy.org/economics-finance-domain) – Introductory finance and investing lessons.
 - [CFA Program Curriculum](https://www.cfainstitute.org/programs/cfa/curriculum) – Comprehensive investment education.
 - [Coursera Finance Courses](https://www.coursera.org/browse/business/finance) – University-backed finance programs.
