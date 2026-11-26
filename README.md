@@ -71,6 +71,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [PyPortfolioOpt](https://pyportfolioopt.readthedocs.io/) – Portfolio optimization library.
 - [QSTrader](https://github.com/mhallsmoore/qstrader) – Event-driven backtesting engine.
 - [LumiBot](https://github.com/Lumiwealth/lumibot) - Python framework for backtesting and live trading with the same strategy code.
+- [AlphaSift](https://github.com/ZhuLinsen/alphasift) - Open-source 7-market equity screening CLI, STDIO MCP server, and verifiable T+N paper track-record engine.
 
 ## Fintech & Payments
 
