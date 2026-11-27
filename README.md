@@ -102,6 +102,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [XBRL](https://www.xbrl.org/) – Standard for digital financial reporting.
 - [QuickBooks](https://quickbooks.intuit.com/) – Accounting software for businesses.
 - [FreshBooks](https://www.freshbooks.com/) – Cloud accounting for small businesses.
+- [Profit & Loss Statement Template](https://profitandlossstatementtemplate.com/) – Free interactive profit and loss statement builder and downloadable template for small business reporting.
 
 ## Financial Data & APIs
 
