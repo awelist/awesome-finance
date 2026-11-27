@@ -116,6 +116,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [R Finance Packages](https://cran.r-project.org/web/views/Finance.html) – Statistical and financial modeling tools.
 - [MATLAB Finance Toolbox](https://www.mathworks.com/products/finance.html) – Quantitative finance and risk modeling tools.
 - [Power BI](https://powerbi.microsoft.com/) – Financial dashboards and reporting.
+- [SmartBizCalc](https://smartbizcalc.com/) – Free collection of 700+ applied finance and business calculators: payroll taxes, break-even analysis, profit margins, startup costs, contractor pricing, loan amortization, and more. No sign-up required.
 
 ## Regulation & Compliance
 
