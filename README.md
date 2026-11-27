@@ -106,6 +106,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Financial Data & APIs
 
 - [Adanos](https://api.adanos.org/docs) – Market sentiment API for stocks and crypto, using Reddit, X / FinTwit, financial news, and Polymarket signals.
+- [DataQuant](https://app.dataquant.trade) – Six-market financial data API (A-shares, HK, US stocks, crypto, indices, ETFs) with unified OHLCV schema and macro indicators; free tier 5,000 rows/day.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for stocks, ETFs, crypto, forex, bonds, and macroeconomic datasets.
 - [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free APIs for stock, forex, and crypto data.
